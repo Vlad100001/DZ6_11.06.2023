@@ -1,0 +1,15 @@
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\bin\Debug\net6.0\ex41.exe
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\bin\Debug\net6.0\ex41.deps.json
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\bin\Debug\net6.0\ex41.runtimeconfig.json
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\bin\Debug\net6.0\ex41.dll
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\bin\Debug\net6.0\ex41.pdb
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.csproj.AssemblyReference.cache
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.AssemblyInfoInputs.cache
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.AssemblyInfo.cs
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.csproj.CoreCompileInputs.cache
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.dll
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\refint\ex41.dll
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.pdb
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ex41.genruntimeconfig.cache
+C:\Users\ДОМ\Downloads\DZ_6_10.06.2023\DZ6_11.06.2023\ex41\obj\Debug\net6.0\ref\ex41.dll
